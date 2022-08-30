@@ -1,8 +1,9 @@
-# KEJAGUNG API
-KEJAGUNG API is a REST API based on Lumen PHP Framework. 
+# SIAK
+SIAK is a Application based on web use lavavel PHP Framework. 
 
 ## Getting Started
-This project requires **Docker** and **Docker Compose** to be Installed on your machine.
+- CLone your projek on this git
+- S
 
 ## Running the container
 First copy .env.example and rename it to .env and also update the configuration file:
